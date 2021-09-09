@@ -1,0 +1,46 @@
+.nftCard {
+  overflow: hidden;
+  width: 20%;
+  border-radius: 10px;
+  border: 1px #DDD solid;
+}
+
+.nftCard img {
+  width: 100%;
+}
+
+.top {
+  padding: 20px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.bottom {
+  background-color: black;
+  padding: 20px;
+  color: #FFF;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.button {
+  width: 100%;
+  background-color: rgb(241, 75, 102);
+  color: #FFF;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 20px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}

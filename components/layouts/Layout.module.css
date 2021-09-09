@@ -1,0 +1,20 @@
+.header {
+  padding: 20px;
+  border-bottom: 1px #DDD solid;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  display: flex;
+}
+
+.navbarItem {
+  font-weight: 500;
+  color: rgb(41, 55, 245);
+  margin-right: 20px;
+}

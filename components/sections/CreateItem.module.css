@@ -1,0 +1,29 @@
+.createItem {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: max-content;
+}
+
+.createItem input,
+.createItem textarea {
+  width: 50%;
+  margin: 20px 0;
+  height: 34px;
+  padding: 10px;
+}
+
+.createItem button {
+  width: 50%;
+  margin: 20px 0;
+  height: 34px;
+  background-color: rgb(241, 75, 102);
+  color: #FFF;
+  font-weight: bold;
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
