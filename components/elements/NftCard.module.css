@@ -3,6 +3,7 @@
   width: 20%;
   border-radius: 10px;
   border: 1px #DDD solid;
+  background-color: black;
 }
 
 .nftCard img {
@@ -11,6 +12,7 @@
 
 .top {
   padding: 20px;
+  background-color: #FFF;
 }
 
 .name {
